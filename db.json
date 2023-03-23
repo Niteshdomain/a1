@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "nnnnn",
+      "lastName": "gggggggggg",
+      "email": "hhhhhhhhh@gmail.com",
+      "mobile": "2222222222",
+      "salary": "11111111111"
+    },
+    {
+      "id": 5,
+      "firstName": "nitesh",
+      "lastName": "dubey",
+      "email": "hhh@gmail.com",
+      "mobile": "1111111",
+      "salary": "2222"
+    },
+    {
+      "id": 6,
+      "firstName": "chotu",
+      "lastName": "jjj",
+      "email": "h@gmail.com",
+      "mobile": "222222222222222",
+      "salary": "11111111111111"
+    },
+    {
+      "id": 7,
+      "firstName": "anurag",
+      "lastName": "dubey",
+      "email": "sss@gmail.com",
+      "mobile": "44444",
+      "salary": "555555555555"
+    },
+    {
+      "id": 8,
+      "firstName": "inin",
+      "lastName": "hhhh",
+      "email": "aaa@gmail.com",
+      "mobile": "1111",
+      "salary": "444444444"
+    },
+    {
+      "id": 9,
+      "firstName": "h",
+      "lastName": "aaa",
+      "email": "hhh@gmail.com",
+      "mobile": "55555",
+      "salary": "77777"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
